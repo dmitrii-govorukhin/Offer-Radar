@@ -23,7 +23,7 @@ ________________________________________
 *What Claude Did:*
 
  - Created a collection to store data in the built-in storage
- - Created a dashboard in the form of a private, interactive web page
+ - Created a dashboard in the form of a private, interactive web page with custom filter settings, sorting options, etc.
  - Scanned the career pages of the specified companies, identified the possibilities and limitations for parsing open job postings, and found ways to access them via APIs, available mirrors, etc.
  - Created a task for the built-in scheduler to periodically compile a list of suitable job openings (with possible personal exclusions and additions)
 

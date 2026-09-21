@@ -1,4 +1,4 @@
-# Offer-Radar
+# Offer Radar
 
 **Project:**                   Coworking with Claude to search for and process open job postings based on specified criteria (artifact + scheduled task).
 
@@ -51,6 +51,6 @@ The repository contains a file with instructions for the task scheduler, written
 
 **Illustration:** The dashboard in light and dark themes
 
-[![Watch the video](demo_preview.png)](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/dark_theme.png)
+[![Watch the video](demo_preview.png)](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/dark_theme.png)
 
-[![Watch the video](demo_preview.png)](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/light_theme.png)
+[![Watch the video](demo_preview.png)](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/light_theme.png)

@@ -46,7 +46,7 @@ ________________________________________
 
 **Results / Key Findings:** The process of searching for job openings, analyzing and organizing them, preparing resumes and cover letters, filling out forms, and keeping track of all this stuff  has turned from a tedious routine into an exciting game.
 
-The repository contains a file with instructions for the task scheduler, written by Claude based on my requests.
+The repository contains the file with instructions for the task scheduler, written by Claude based on my requests.
 
 
 **Illustration:** The dashboard in light and dark themes

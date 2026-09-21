@@ -26,6 +26,7 @@ ________________________________________
  - Created a dashboard in the form of a private, interactive web page with custom filter settings, sorting options, etc.
  - Scanned the career pages of the specified companies, identified the possibilities and limitations for parsing open job postings, and found ways to access them via APIs, available mirrors, etc.
  - Created a task for the built-in scheduler to periodically compile a list of suitable job openings (with possible personal exclusions and additions)
+ - Created a map showing the locations of companies and interactive markers that display the current status of the collection for each company
 
 ________________________________________
 *What Claude Does:*
@@ -40,8 +41,9 @@ ________________________________________
 ________________________________________
 *Identified Limitations:*
 
- - It works very poorly and slowly with Google Drive
+ - Works very poorly and slowly with Google Drive
  - Cannot attach documents to forms on their own
+ - Draws a very rough maps
 
 
 **Results / Key Findings:** The process of searching for job openings, analyzing and organizing them, preparing resumes and cover letters, filling out forms, and keeping track of all this stuff  has turned from a tedious routine into an exciting game.
@@ -54,3 +56,5 @@ The repository contains the file with instructions for the task scheduler, writt
 ![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/dark_theme.png)
 
 ![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/light_theme.png)
+
+![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/map.png)

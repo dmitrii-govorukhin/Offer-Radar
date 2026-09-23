@@ -55,7 +55,7 @@ The repository contains the file with instructions for the task scheduler, writt
 
 <p align="center">
   <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png" width="45%" />
-  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png" width="45%" />
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_light_theme.png" width="45%" />
 </p>
 
 <p align="center">

@@ -58,17 +58,12 @@ The repository contains the file with instructions for the task scheduler, writt
   <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png" width="45%" />
 </p>
 
-![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png)
+<p align="center">
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/map_dark_theme" width="45%" />
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/map_light_theme" width="45%" />
+</p>
 
-![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/map_dark_theme.png)
-
-![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/graph_dark_theme.png)
-
-
-
-![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_light_theme.png)
-
-![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/map_light_theme.png)
-
-![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/graph_light_theme.png)
-
+<p align="center">
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/graph_dark_theme" width="45%" />
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/graph_light_theme" width="45%" />
+</p>

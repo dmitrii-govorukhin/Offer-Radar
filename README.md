@@ -54,8 +54,8 @@ The repository contains the file with instructions for the task scheduler, writt
 **Illustration:** The dashboard tabs in light and dark themes
 
 <p align="center">
-  <img src="![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png)" width="45%" />
-  <img src="![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png)" width="45%" />
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png" width="45%" />
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png" width="45%" />
 </p>
 
 ![alt text](https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/list_dark_theme.png)

@@ -27,7 +27,8 @@ ________________________________________
  - Scanned the career pages of the specified companies, identified the possibilities and limitations for parsing open job postings, and found ways to access them via APIs, available mirrors, etc.
  - Created a task for the built-in scheduler to periodically compile a list of suitable job openings (with possible personal exclusions and additions)
  - Created a map showing the locations of companies and interactive markers that display the current status of the collection for each company
- - Created a chart showing how long it takes for companies to review job applications 
+ - Created a chart showing how long it takes for companies to review job applications
+ - Created a chart showing salary distribution for records by status
 
 ________________________________________
 *What Claude Does:*
@@ -67,4 +68,9 @@ The repository contains the file with instructions for the task scheduler, writt
 <p align="center">
   <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/graph_dark_theme.png" width="45%" />
   <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/graph_light_theme.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/chart_dark_theme.png" width="45%" />
+  <img src="https://github.com/dmitrii-govorukhin/Offer-Radar/blob/main/img/chart_light_theme.png" width="45%" />
 </p>
